@@ -167,8 +167,4 @@ public class MainActivity extends AppCompatActivity {
             progressBar.setProgress(progressStatus);
         }
     }
-
-    public void setProgressBar(int temp){
-        progressStatus = temp;
-    }
 }
